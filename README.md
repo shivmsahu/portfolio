@@ -21,12 +21,12 @@ npm run preview
 ## Deploying to GitHub Pages
 
 This repository includes a GitHub Actions workflow that builds and deploys the
-portfolio whenever changes are pushed to `work` or `main`.
+portfolio whenever changes are pushed to `main`.
 
 1. Push this repository to GitHub.
 2. Open **Settings → Pages** in the GitHub repository.
 3. Under **Build and deployment**, set **Source** to **GitHub Actions**.
-4. Push to `work` or `main`, or run **Deploy portfolio to GitHub Pages** manually
+4. Push to `main`, or run **Deploy portfolio to GitHub Pages** manually
    from the Actions tab.
 
 The site uses relative asset URLs, so it works both at a user site such as
